@@ -35,6 +35,10 @@ header, footer {
   padding: 0.5rem;
 }
 
+footer {
+  text-align: center;
+}
+
 .add-item,
 .search-item {
   display: flex;
